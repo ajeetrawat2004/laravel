@@ -1,2 +1,0 @@
-# laravel
-The Laravel Application
